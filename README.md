@@ -45,3 +45,5 @@ git push <nome> <main> (nome normalmente é = origin // Serve para enviar as atu
 git clone <link> (clonar/fazer download de um projeto)
 
 git fetch ( serve para atualizar o repositório local com as alterações mais recentes do repositório remoto )
+
+git pull (pegar atualizações feitas pelo time, download)
