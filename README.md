@@ -35,6 +35,7 @@ git reset mixed <codigo> (Caso tenha apagado sem querer um arquivo e tenha dado 
 GitHub online
  - Cadastro
 git remote add origin <link>
+
 git push -u origin main
 
 
