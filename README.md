@@ -1,13 +1,11 @@
-# Curso de Git
-Este repositório foi criado para hospedar o esqueleto do projeto que será utilizado para explicar e ensinar o uso básico do Git dentro da Comunidade DS
-
-
-
 git
 
 git status
+
 git add . 
+
 git commit -m "Comentario"
+
 git commit -m "Comentario" -- amend (pequena mudança/alterar mensagem do ultimo)
 
 
@@ -40,6 +38,7 @@ git push -u origin main
 
 
 git remote -v (Ver se funcionou e o nome)
+
 git push <nome> <main> (nome normalmente é = origin // Serve para enviar as atualizações para o GitHub online)
 
 
@@ -55,7 +54,11 @@ git branch <nome> (Criar nova branch)
 git branch (Ver branchs)
 
 git checkout <nome da branch> (alterar de branch a outra) (move o head para o ultimo commit da branch)
+
 git checkout -b <nome da branch> (Cria uma nova branch e move o head para a criada)
 
 
 git merge <branch>
+
+
+git merge --abort (voltar atras em um merge que deu errado)
