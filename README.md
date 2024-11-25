@@ -48,6 +48,7 @@ git fetch ( serve para atualizar o repositório local com as alterações mais r
 
 git pull (pegar atualizações feitas pelo time, download)
 
+
 git branch <nome> (Criar nova branch)
 
 git branch (Ver branchs)
