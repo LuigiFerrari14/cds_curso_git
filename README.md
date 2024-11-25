@@ -47,3 +47,13 @@ git clone <link> (clonar/fazer download de um projeto)
 git fetch ( serve para atualizar o repositório local com as alterações mais recentes do repositório remoto )
 
 git pull (pegar atualizações feitas pelo time, download)
+
+git branch <nome> (Criar nova branch)
+
+git branch (Ver branchs)
+
+git checkout <nome da branch> (alterar de branch a outra) (move o head para o ultimo commit da branch)
+git checkout -b <nome da branch> (Cria uma nova branch e move o head para a criada)
+
+
+git merge <branch>
